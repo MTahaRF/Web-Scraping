@@ -8,7 +8,8 @@ This Python program scrapes the IMDB website's top 250 movies list and extracts 
 - Requests
 - BeautifulSoup4
 - Pandas
-- 
+
+
 ## Usage
 1. Navigate to the directory where the program is located.
 2. Open the Google Collabotary and run it
